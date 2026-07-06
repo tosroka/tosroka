@@ -1,4 +1,5 @@
-[![Tosroka's GitHub stats](https://github-stats-extended.vercel.app/api?username=tosroka)](https://github.com/stats-organization/github-stats-extended)
+![Tosroka's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tosroka&theme=gruvbox)
+![Tosroka's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tosroka&theme=gruvbox)
 
 My various projects:
 * **Nintendo64 Emulator Fork (public project to which I devoted a significant amount of time):** [link](https://github.com/mkdasher/mupen64-rr-lua-)
